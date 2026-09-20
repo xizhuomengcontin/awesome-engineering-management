@@ -676,6 +676,7 @@
 | [Leadership in Tech](https://leadershipintech.com/) | A curated weekly newsletter for tech leaders. |
 
 ## Related Awesome Lists
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — a tool for recording and replaying AI agent runs.
 
 | Link | Description |
 | --- | --- |
